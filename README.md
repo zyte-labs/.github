@@ -48,7 +48,8 @@ It helps you generate scraping logic, selectors, and workflows directly inside y
 ## 📬 Stay Connected
 
 Join the Zyte community and newsletter for updates, tutorials, and new sample projects:  
-👉 https://www.zyte.com/join-community/
+* 👉 https://www.zyte.com/join-community/
+* 📽️ https://www.youtube.com/@zytedata
 
 ---
 
