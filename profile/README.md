@@ -19,6 +19,9 @@ Create an account here:
 ## Write Scrapers Faster
 Need help building spiders?
 
+Our **Claude Code Plugin** builds Scrapy projects with ease:
+👉 https://github.com/zyte-ai/claude-skills
+
 Try **Web Scraping Copilot (VS Code Extension)**:  
 ✍🏻 https://www.zyte.com/products/web-scraping-copilot/
 
